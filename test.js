@@ -1,1 +1,1 @@
-trow new Error('testing js errors');
+throw new Error('testing js errors');
